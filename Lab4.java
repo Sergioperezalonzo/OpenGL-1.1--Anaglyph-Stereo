@@ -6,7 +6,7 @@ import com.jogamp.opengl.awt.*;
 import com.jogamp.opengl.util.gl2.GLUT; 
 
 /**
- * CPSC 424, Fall 2015, Lab 4:  Some objects in 3D.  The arrow keys
+ Some objects in 3D.  The arrow keys
  * can be used to rotate the object.  The number keys 1 through 6
  * select the object.  The space bar toggles the use of anaglyph
  * stereo.
